@@ -1,0 +1,16 @@
+SMAP
+forget_jsp.java
+JSP
+*S JSP
+*F
++ 0 forget.jsp
+forget.jsp
+*L
+5,15:44
+20,3:60
+22,2:63
+23,3:65
+25,5:68
+30,2:74
+31,31:76
+*E
